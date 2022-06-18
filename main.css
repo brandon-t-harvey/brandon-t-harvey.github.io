@@ -57,6 +57,8 @@ hr {
  */
 
 img{
+  display: block;
+  margin: auto;
   align-content: center;
   border-radius: 50%;
   height: auto;
