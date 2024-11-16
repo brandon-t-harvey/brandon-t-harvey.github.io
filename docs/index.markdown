@@ -5,18 +5,18 @@
 layout: default
 
 title: Brandon T. Harvey
-description: Seeking junior level position in computer programming. Strengths include fast learning and adapting to large source repositories using Java, Git, IntelliJ IDEA. 
+description: Software Engineer with Marine Acoustics Inc. currently providing support with Java and JavaFX libraries. Java, Git, IntelliJ IDEA. 
 ---
 ## Contact
 * * *
-**Email:** brandontharvey@yahoo.com  
+**Email:** boundless.trails@proton.me
 **Phone:** (571) 264-9428
 
 
 ## Education
 * * *
 - George Washington University
-	- Pursuing B.S. in Computer Science (expected 2023 graduation)
+	- B.S. in Computer Science (2024)
 - Northern Virginia Community College
 	- A.S. in Computer Science (2020)
 - Il Sasso: Italian Language School
@@ -30,23 +30,47 @@ description: Seeking junior level position in computer programming. Strengths in
 ## Skills
 * * *
 - Java
-- Github
-- Linux Terminal
-- Replit.com
-- IntelliJ IDEA
+- JavaFX
+- ControlsFX
 - Git
+- Github
+- Linux OS
+- Cent OS
+- Replit.com
+- Visual Studio
+- Windows 10/11 OS
+- IntelliJ IDEA
 - Eclipse
 - BlueJ
-- Microsoft Office
-- Quickbooks
+- Microsoft Office Suite
+- Quickbooks Desktop
+- Quicksooks Online
+- Oracle VirtualBox
+- Windows Hyper-V
 
 ## Experience
 * * *
 
-### Programmer Intern
+### Software Engineer
 **Company:** Marine Acoustics Inc.  
 **Location:** Arlington, VA  
-_Duration:_ Feb '22 - present
+_Duration:_ Jan '24 - present
+
+Primary responsibilities involve the support and management of Marine Acoustics’ source code libraries and applications utilized towards the development of small business innovative research (SBIR) programs and internal applications. 
+
+- Implementation of request tracking for tasks and improvements of the Acoustic Integration Model (AIM) application.
+- Assist in refactoring application source code related to faster than real time computations.
+- Assist in the development of in-house machine learning (ML) models in the realm of underwater acoustics.
+- Translation and refactoring of source code to utilize modern graphical user interface (GUI) toolkits including JavaFX and supporting toolkits including ControlsFX.
+- Update source code to utilize advanced features of current long term release Java versions.
+- Development of AIM knowledge base.
+
+* * *
+
+### Software Engineer Intern
+**Company:** Marine Acoustics Inc.  
+**Location:** Arlington, VA  
+_Duration:_ Feb '22 - Jan '24
 
 - Translation of database retrievers used for binary file databases from C to Java.
 - Regular management of local Git repositories for each project.
